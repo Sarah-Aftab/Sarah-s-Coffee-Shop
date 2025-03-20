@@ -1,5 +1,14 @@
-# CoffeeShop
+# Portfolio Responsive Complete
+## [Watch it on youtube](https://youtu.be/AKNvTxWOdKw)
+### Portfolio Responsive Complete
 
-### Live Preview Project
+- Responsive Personal Portfolio Website HTML CSS & JavaScript.
+- Contains animations when scrolling.
+- Smooth scrolling in each section.
+- Developed first with the Mobile First methodology, then for desktop.
+- Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-[Click Button and View Demo Project](https://mian-ali.github.io/CoffeeShop_htmlCss/)
+💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/@Bedimcode)
+
+![preview img](/preview.png)
+
